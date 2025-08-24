@@ -1,10 +1,4 @@
-Got it ✅
-Here’s a **README.md** draft for your **Diabetes Prediction Project**.
-You can put this file in the root of your project so anyone can understand and run it easily.
 
----
-
-````markdown
 # 🩺 Diabetes Prediction Project
 
 This project builds and evaluates multiple machine learning models to predict whether a person has **diabetes** based on health-related features.  
@@ -163,3 +157,4 @@ pip install -r requirements.txt
 
 ⚡ Question: Do you want me to also create a **`requirements.txt` file** for you (so anyone can install dependencies in one command)?
 ```
+
